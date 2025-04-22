@@ -12,7 +12,7 @@
     "build:client": "npm ci --prefix client && npm run build --prefix client",
     "postinstall": "npm run build:client"
   },
-  "author": "Brad Traversy",
+  "author": "Hrusta",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
